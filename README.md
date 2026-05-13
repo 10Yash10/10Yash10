@@ -28,6 +28,7 @@ Frontend Engineer focused on building scalable web and mobile applications with 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css" />
 
 ## Backend & Database
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
