@@ -115,4 +115,4 @@ MERN stack booking platform for play zones, activities, and event reservations.
 
 ⭐ Explore my repositories to see projects, architecture patterns, and production-ready implementations.
 
-</div> ```
+</div>
