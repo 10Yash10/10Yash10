@@ -83,9 +83,9 @@ MERN stack booking platform for play zones, activities, and event reservations.
 
 # 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=10Yash10&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=10Yash10&theme=tokyonight" />
@@ -95,8 +95,7 @@ MERN stack booking platform for play zones, activities, and event reservations.
 
 # 🌍 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
-- Portfolio: https://yourportfolio.com
+- LinkedIn: www.linkedin.com/in/yash-sharma-519308216
 - Email: sharmayash7310@gmail.com
 
 ---
@@ -109,6 +108,8 @@ MERN stack booking platform for play zones, activities, and event reservations.
 - Cross-Platform Applications
 - Scalable UI Systems
 - Full-Stack Product Development
+
+---
 
 <div align="center">
 💻 Building modern scalable applications with performance-focused frontend engineering
